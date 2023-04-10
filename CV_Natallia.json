@@ -1,0 +1,16 @@
+{
+"name": "Natallia",
+"second name": "Varanchuk",
+"age": 43,
+"gender": "female",
+"nationality": "Republic of Belarus",
+"marriage": true,
+"addres": {"zipcode": "220017","country": "Republic of Belarus","city": "Minsk"},
+"E-mail": "voronchuk.n@gmail.com",
+"phonenumber": ["+375(29)7626299","8(017)3576445"],
+"education": "higher medical",
+"speciality": "doctor",
+"educational courses": "Software Testing Engineer",
+"skills": ["HTML","CSS","SQL","API","Theory of testing"],
+"hobbies": null
+}
